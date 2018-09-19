@@ -1,7 +1,7 @@
 # How to create Tip Calculator App for iOS
 
 1. Download Xcode from https://developer.apple.com/xcode/
-2. Open Xcode, Click create new project, select Single View App for template, enter a product name (Tip Calculator, First App, etc.), and create project
+2. Open Xcode, Click create new project, select Single View App for template, enter a product name (Tip Calculator, First App, etc.), and create project <br />
 ![Project Creation](https://image.ibb.co/iY851e/Screen_Shot_2018_09_18_at_11_13_33_PM.png)
 ![Project Naming](https://image.ibb.co/hccLZz/Screen_Shot_2018_09_18_at_11_14_13_PM.png)
 3. XCode has 5 main areas, as shown below:
