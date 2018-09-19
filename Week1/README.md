@@ -3,8 +3,8 @@
 1. Download Xcode from https://developer.apple.com/xcode/
 2. Open Xcode, Click create new project, select Single View App for template, enter a product name (Tip Calculator, First App, etc.), and create project
 3. XCode has 5 main areas, as shown below:
-..1. **Toolbar (Green):** displays key information about project, expand/collapse other areas, run project
-..2. **Navigator (Orange):** Find files, search in your project, manage source control, navigate errors
+--1. **Toolbar (Green):** displays key information about project, expand/collapse other areas, run project
+--2. **Navigator (Orange):** Find files, search in your project, manage source control, navigate errors
 ..3. **Editor Area (Red):** Write code, build UI with storyboard, change project settings
 ..4. **Utilities (Purple):** Gives info about files, set properties of items in Interface Builder
 ..5. **Debug Area (Blue):** Test and debug your code at runtime
